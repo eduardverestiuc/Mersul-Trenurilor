@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trenuri>
+<tren id="240">
+<statie nume="Iasi" ora_plecare="2:40" intarziere="0min">
+</statie>
+<statie nume="Vaslui" ora_sosire="3:45" ora_plecare="3:50" intarziere="0min">
+</statie>
+<statie nume="Focsani" ora_sosire="7:25" ora_plecare="7:40" intarziere="-10min">
+</statie>
+<statie nume="Constanta" ora_sosire="13:15" intarziere="0min">
+</statie>
+</tren>
+
+<tren id="241">
+<statie nume="Iasi" ora_plecare="23:30" intarziere="0min">
+</statie>
+<statie nume="Suceava" ora_sosire="1:45" ora_plecare="2:00" intarziere="0min">
+</statie>
+<statie nume="Cluj-Napoca" ora_sosire="8:45" ora_plecare="9:05" intarziere="10min">
+</statie>
+<statie nume="Timisoara" ora_sosire="14:25" ora_plecare="14:40" intarziere="10min">
+</statie>
+<statie nume="Craiova" ora_sosire="19:15" ora_plecare="19:25" intarziere="10min">
+</statie>
+<statie nume="Pitesti" ora_sosire="21:10" ora_plecare="21:15" intarziere="10min">
+</statie>
+<statie nume="Bucuresti" ora_sosire="23:15" intarziere="10min">
+</statie>
+</tren>
+
+<tren id="570">
+<statie nume="Cluj-Napoca" ora_plecare="21:50" intarziere="0min">
+</statie>
+<statie nume="Brasov" ora_sosire="4:15" ora_plecare="4:20" intarziere="0min">
+</statie>
+<statie nume="Buzau" ora_sosire="6:55" ora_plecare="7:00" intarziere="0min">
+</statie>
+<statie nume="Bucuresti" ora_sosire="11:20" intarziere="0min">
+</statie>
+</tren>
+
+<tren id="823">
+<statie nume="Botosani" ora_plecare="17:50" intarziere="0min">
+</statie>
+<statie nume="Bacau" ora_sosire="21:15" ora_plecare="21:20" intarziere="0min">
+</statie>
+<statie nume="Galati" ora_sosire="22:35" ora_plecare="22:45" intarziere="0min">
+</statie>
+<statie nume="Constanta" ora_sosire="2:20" intarziere="0min">
+</statie>
+</tren>
+
+<tren id="947">
+<statie nume="Piatra-Neamt" ora_plecare="16:50" intarziere="0min">
+</statie>
+<statie nume="Sibiu" ora_sosire="21:15" ora_plecare="21:40" intarziere="0min">
+</statie>
+<statie nume="Ploiesti" ora_sosire="23:55" ora_plecare="0:05" intarziere="0min">
+</statie>
+<statie nume="Calarasi" ora_sosire="6:20" intarziere="0min">
+</statie>
+</tren>
+</trenuri>
